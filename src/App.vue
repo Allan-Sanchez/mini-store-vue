@@ -12,7 +12,7 @@
           <router-link class="text-gray-900 font-semibold" to="/newproduct">New Product</router-link>
         </div>
         <div class="flex item-center p-5 font-semibold">
-          <router-link class="text-gray-900" to="/about">Cart</router-link>
+          <router-link class="text-gray-900" to="/cart">Cart</router-link>
         </div>
       </div>
     </div>
