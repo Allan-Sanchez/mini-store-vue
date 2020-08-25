@@ -14,6 +14,10 @@
         <div class="flex item-center p-5 font-semibold">
           <router-link class="text-gray-900" to="/cart">Cart</router-link>
         </div>
+
+        <div class="flex item-center p-5 font-semibold">
+          <router-link class="text-gray-900" to="/confirm-checkout">Confirm  Checkout</router-link>
+        </div>
       </div>
     </div>
     <router-view />

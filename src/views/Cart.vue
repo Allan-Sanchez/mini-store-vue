@@ -123,13 +123,13 @@
         <input
           type="text"
           placeholder="Type your code"
-          class="px-3 py-3 placeholder-gray-900 text-gray-700 relative bg-white rounded text-sm shadow outline-none focus:outline-none focus:shadow-outline w-full mt-2"
+          class="px-3 py-3 placeholder-gray-700 text-gray-700 relative bg-white rounded text-sm shadow outline-none focus:outline-none focus:shadow-outline w-full mt-2"
         />
           <button
             class="bg-blue-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 mt-2"
             type="button"
             style="transition: all .15s ease"
-          >Regular</button>
+          >Apply</button>
       </div>
       <div class="mx-10 mt-5">
         <div class="text-gray-200 flex justify-between text-2xl items-center">
@@ -141,7 +141,7 @@
             class="bg-blue-500 text-white active:bg-pink-600 font-bold uppercase text-lg px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 mt-5 w-full mx-auto "
             type="button"
             style="transition: all .15s ease"
-          >Regular</button>
+          >Checkout</button>
       </div>
     </div>
   </div>
